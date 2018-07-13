@@ -26,5 +26,10 @@ namespace LenoCar.Controllers
 
             return View();
         }
+
+        public ViewResult OnePage()
+        {
+            return View();
+        }
     }
 }
